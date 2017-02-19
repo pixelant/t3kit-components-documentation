@@ -2,8 +2,6 @@
 
 This documentation contains an overviews of which components that exists in T3kit. It is everything from templates, themes to plugins.
 
-
-
 ## 
 
 ## 
@@ -20,49 +18,9 @@ This documentation contains an overviews of which components that exists in T3ki
 
 ## **Content elements:**
 
-## **Content elements:**
+### 
 
-### **Accordion**
-
-#### **Wireframes \(Mobile\)**
-
-\*\*+-------------------------------+  
-\|Accordion 1 \|  
-+-------------------------------+  
-\|Accordion 2 \|  
-+-------------------------------+  
-\|Accordion 3 \(akciv\) \|  
-+-------------------------------+  
-\| xxxxxx xxxxxxxxxxx xxxxxxxxxx \|  
-\| xxxxxxxxx xxxxxxxxxxxxxxxxxxx \|  
-\| xxxxxxxxxx xxxxxxxxxxxxxxxxxx \|  
-\| xxxxxxxxxxxxxxxx xxxxxxxxxxxx \|  
-\| xxxxxxxxx xxxxxxxxxxxxxxxxxxx \|  
-+-------------------------------+  
-\|Accordion 4 \|  
-+-------------------------------+
-
-\*\*
-
-#### **Wireframes \(Tablet, Desktop\)**
-
-**+--------------------------------------------------------------------------------+  
-\|Accordion 1 \|  
-+--------------------------------------------------------------------------------+  
-\|Accordion 2 \|  
-+--------------------------------------------------------------------------------+  
-\|Accordion 3 \(activ\) \|  
-+--------------------------------------------------------------------------------+  
-\| xxxxxx xxxxxxxxxxx xxxxxxxxxxxxxxxx xxxxxxxxxxxx xxxxxxxxxxxxxxxx xxxxxxxxxxx \|  
-\| xxxxxxxxx xxxxxxxxxxxxxxxxx xxxxxxxxxxx xx xxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxx \|  
-\| xxxxxxxxxx xxxxxxxxxxxx xxxxxxxx xxx xxxxxx xxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxx \|  
-\| xxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx xxxxxxxxxx xxxxxxxxx xxxxxxxxxxxxxxxxxxx \|  
-\| xxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxx xxxxxx xxxxxxxxxxxxx xxxxxx xxxxx \|  
-+--------------------------------------------------------------------------------+  
-\|Accordion 4 \|  
-+--------------------------------------------------------------------------------+**
-
-**        
+**            
 **
 
 ### **Bootstrap Slider**
@@ -91,7 +49,7 @@ This documentation contains an overviews of which components that exists in T3ki
 
 ### **Tabs**
 
-**        
+**            
 **
 
 ## **Custom elements:**
@@ -128,7 +86,7 @@ This documentation contains an overviews of which components that exists in T3ki
 
 ### **Tab**
 
-**        
+**            
 **
 
 # **Plugins:**
@@ -149,7 +107,7 @@ This documentation contains an overviews of which components that exists in T3ki
 
 **Vzaar Video Plugin**
 
-**        
+**            
 **
 
 **Backend module functionalities:**
@@ -241,7 +199,7 @@ This documentation contains an overviews of which components that exists in T3ki
 
 ### **Theme Blue Mountain**
 
-**        
+**            
 **
 
 ## **Speaking URLs**
@@ -252,7 +210,7 @@ This documentation contains an overviews of which components that exists in T3ki
 
 ### **Speaking URLs \(Path cache\)**
 
-**        
+**            
 **
 
 ## **News Administration**
@@ -261,7 +219,7 @@ This documentation contains an overviews of which components that exists in T3ki
 
 ### **News Pid Listing**
 
-**        
+**            
 **
 
 ## **Extensions**

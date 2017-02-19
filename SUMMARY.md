@@ -22,4 +22,7 @@
   * Top Content Menu Content
   * Top Content Menu Content Sidebar
   * Top Content Sidebar Content
+* [Content elements](content-elements.md)
+  * Page content elements
+    * [Accordion](content-elements/accordion.md)
 
