@@ -1,48 +1,24 @@
-# My Awesome Book
+# T3kit components
 
-# **Page templates \(Backend Layout\)**
+This documentation contains an overviews of which components that exists in T3kit. It is everything from templates, themes to plugins.
 
-## **Content**
 
-## **Content Menu**
 
-## **Content Menu Sidebar**
+## 
 
-## **Content Sidebar**
+## 
 
-## **Content Sidebar Menu**
+## 
 
-## **Empty**
+## 
 
-## **Grid Container**
+## 
 
-## **Menu Content**
+## 
 
-## **Menu Content Sidebar**
+## 
 
-## **Menu Sidebar Content**
-
-## **Sidebar Content**
-
-## **Sidebar ContentMenu**
-
-## **Sidebar Menu Content**
-
-## **Start Page**
-
-## **Top Content Content**
-
-## **Top Content Content Menu**
-
-## **Top Content Content Sidebar**
-
-## **Top Content Menu Content**
-
-## **Top Content Menu Content Sidebar**
-
-## **Top Content Sidebar Content**
-
-# **Content elements:**
+## **Content elements:**
 
 ## **Content elements:**
 
@@ -50,7 +26,7 @@
 
 #### **Wireframes \(Mobile\)**
 
-**+-------------------------------+  
+\*\*+-------------------------------+  
 \|Accordion 1 \|  
 +-------------------------------+  
 \|Accordion 2 \|  
@@ -64,9 +40,9 @@
 \| xxxxxxxxx xxxxxxxxxxxxxxxxxxx \|  
 +-------------------------------+  
 \|Accordion 4 \|  
-+-------------------------------+  
-  
-**
++-------------------------------+
+
+\*\*
 
 #### **Wireframes \(Tablet, Desktop\)**
 
@@ -86,7 +62,7 @@
 \|Accordion 4 \|  
 +--------------------------------------------------------------------------------+**
 
-**  
+**        
 **
 
 ### **Bootstrap Slider**
@@ -115,7 +91,7 @@
 
 ### **Tabs**
 
-**  
+**        
 **
 
 ## **Custom elements:**
@@ -152,7 +128,7 @@
 
 ### **Tab**
 
-**  
+**        
 **
 
 # **Plugins:**
@@ -173,7 +149,7 @@
 
 **Vzaar Video Plugin**
 
-**  
+**        
 **
 
 **Backend module functionalities:**
@@ -265,7 +241,7 @@
 
 ### **Theme Blue Mountain**
 
-**  
+**        
 **
 
 ## **Speaking URLs**
@@ -276,7 +252,7 @@
 
 ### **Speaking URLs \(Path cache\)**
 
-**  
+**        
 **
 
 ## **News Administration**
@@ -285,7 +261,7 @@
 
 ### **News Pid Listing**
 
-**  
+**        
 **
 
 ## **Extensions**
