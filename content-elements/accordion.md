@@ -2,21 +2,24 @@
 
 ## **Wireframes \(Mobile\)**
 
-\*\*+-------------------------------+  
-\|Accordion 1 \|  
-+-------------------------------+  
-\|Accordion 2 \|  
-+-------------------------------+  
-\|Accordion 3 \(akciv\) \|  
-+-------------------------------+  
-\| xxxxxx xxxxxxxxxxx xxxxxxxxxx \|  
-\| xxxxxxxxx xxxxxxxxxxxxxxxxxxx \|  
-\| xxxxxxxxxx xxxxxxxxxxxxxxxxxx \|  
-\| xxxxxxxxxxxxxxxx xxxxxxxxxxxx \|  
-\| xxxxxxxxx xxxxxxxxxxxxxxxxxxx \|  
-+-------------------------------+  
-\|Accordion 4 \|  
+
+<pre>
 +-------------------------------+
+|Accordion 1                    |
++-------------------------------+
+|Accordion 2                    |
++-------------------------------+
+|Accordion 3 \(akciv\)          |
++-------------------------------+
+| xxxxxx xxxxxxxxxxx xxxxxxxxxx |
+| xxxxxxxxx xxxxxxxxxxxxxxxxxxx |
+| xxxxxxxxxx xxxxxxxxxxxxxxxxxx |
+| xxxxxxxxxxxxxxxx xxxxxxxxxxxx |
+| xxxxxxxxx xxxxxxxxxxxxxxxxxxx |
++-------------------------------+
+|Accordion 4                    |
++-------------------------------+
+</pre>
 
 \*\*
 
