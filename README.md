@@ -1,4 +1,4 @@
-# T3kit components
+# T3kit components test
 
 This documentation contains an overviews of which components that exists in T3kit. It is everything from templates, themes to plugins.
 
@@ -64,7 +64,7 @@ This documentation contains an overviews of which components that exists in T3ki
 
 ### **Tab**
 
-**              
+**                
 **
 
 # **Plugins:**
@@ -85,7 +85,7 @@ This documentation contains an overviews of which components that exists in T3ki
 
 **Vzaar Video Plugin**
 
-**              
+**                
 **
 
 **Backend module functionalities:**
@@ -177,7 +177,7 @@ This documentation contains an overviews of which components that exists in T3ki
 
 ### **Theme Blue Mountain**
 
-**              
+**                
 **
 
 ## **Speaking URLs**
@@ -188,7 +188,7 @@ This documentation contains an overviews of which components that exists in T3ki
 
 ### **Speaking URLs \(Path cache\)**
 
-**              
+**                
 **
 
 ## **News Administration**
@@ -197,7 +197,7 @@ This documentation contains an overviews of which components that exists in T3ki
 
 ### **News Pid Listing**
 
-**              
+**                
 **
 
 ## **Extensions**
