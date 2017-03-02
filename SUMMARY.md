@@ -23,6 +23,13 @@
   * Top Content Menu Content Sidebar
   * Top Content Sidebar Content
 * [Content elements](content-elements.md)
-  * Page content elements
-    * [Accordion](content-elements/accordion.md)
-
+  * [Text & Media](content-elements/text-media.md)
+  * [Slider](content-elements/slider.md)
+  * [File Links](content-elements/file-links.md)
+  * [Sitemap](content-elements/sitemap.md)
+* [Structural elements](structural-elements.md)
+  * [Accordion](structural-elements/accordion.md)
+  * [Tabs](structural-elements/tabs.md)
+  * [Two columns grid](structural-elements/two-col.md)
+  * [Three columns grid](structural-elements/three-col.md)
+  * [Four columns grid](structural-elements/four-col.md)
