@@ -27,22 +27,22 @@
   * [Slider](content-elements/slider.md)
   * [File Links](content-elements/file-links.md)
   * [Sitemap](content-elements/sitemap.md)
-  * Content elements
+  * [Content elements](content-elements/content-elements.md)
     * [Accordion](content-elements/accordion.md)
     * [Bootstrap Slider](content-elements/bootstrap-slider.md)
     * Contacts
     * Copyright
     * [Full Width Image](content-elements/full-width-image.md)
-    * Icon, Text and Button
-    * Image, Text and Link
-    * Icon, Text and Link
-    * Logo Carousel
-    * Quote
-    * Responsive Video
-    * Social Icons
+    * [Icon, Text and Button](content-elements/icon-text-and-button.md)
+    * [Image, Text and Link](content-elements/image-text-and-link.md)
+    * [Icon, Text and Link](content-elements/icon-text-and-link.md)
+    * [Logo Carousel](content-elements/logo-carousel.md)
+    * [Quote](content-elements/quote.md)
+    * [Responsive Video](content-elements/responsive-video.md)
+    * [Social Icons](content-elements/social-icons.md)
     * Tabs
     * Button
-    * Hero image \(Slider\)
+    * [Hero image \(Slider\)](content-elements/hero-image-\(slider\).md)
   * [Grid elements](content-elements/grid-elements.md)
     * Two columns grid
     * Three columns grid
@@ -60,6 +60,4 @@
   * [Two columns grid](structural-elements/two-col.md)
   * [Three columns grid](structural-elements/three-col.md)
   * [Four columns grid](structural-elements/four-col.md)
-
-
 
