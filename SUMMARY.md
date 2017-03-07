@@ -43,7 +43,7 @@
     * [Contacts](content-elements/contacts.md)
     * [Copyright](content-elements/copyright.md)
   * [Grid elements](content-elements/grid-elements.md)
-    * Two columns grid
+    * [Two columns grid](content-elements/grid-elements/two-columns-grid.md)
     * Three columns grid
     * Four columns grid
     * Advanced one column grid
@@ -51,8 +51,8 @@
     * Advanced three columns grid
     * Advanced four columns grid
     * Collapsible
-    * Group of collapsibles
-    * Parallax
+    * [Group of collapsibles](content-elements/grid-elements/group-of-collapsibles.md)
+    * [Parallax](content-elements/grid-elements/parallax.md)
 * [Structural elements](structural-elements.md)
   * [Accordion](structural-elements/accordion.md)
   * [Tabs](structural-elements/tabs.md)
