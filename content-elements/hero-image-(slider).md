@@ -34,5 +34,6 @@
 |   |                                                                        |   |
 +---+------------------------------------------------------------------------+---+
 </pre>
+
 ### Description:
 Hero image (Slider) - graphical content element which consist of background image (can include two or more images), title and text which is located on it and button or link. The element can be moved via arrows or can move automatically.
