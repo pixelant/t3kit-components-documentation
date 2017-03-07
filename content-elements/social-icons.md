@@ -22,5 +22,6 @@
 |                                                                                |
 +--------------------------------------------------------------------------------+
 </pre>
+
 ### Description:
-Social Icons - 
+Social Icons - a content element which is used to switch to social networks. Displayed like round icons with logo of a social network.

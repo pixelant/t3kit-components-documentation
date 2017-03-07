@@ -42,3 +42,6 @@
 |Accordion 4                                                                     |
 +--------------------------------------------------------------------------------+
 </pre>
+
+### Description: 
+Accordion  - the graphical content element with vertically or horizontal stacked list of items. Each item can be "expanded" or "stretched" to reveal the content associated with that item. Often uses in FAQ.  

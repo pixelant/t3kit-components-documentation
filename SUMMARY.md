@@ -29,9 +29,6 @@
   * [Sitemap](content-elements/sitemap.md)
   * [Content elements](content-elements/content-elements.md)
     * [Accordion](content-elements/accordion.md)
-    * [Bootstrap Slider](content-elements/bootstrap-slider.md)
-    * Contacts
-    * Copyright
     * [Full Width Image](content-elements/full-width-image.md)
     * [Icon, Text and Button](content-elements/icon-text-and-button.md)
     * [Image, Text and Link](content-elements/image-text-and-link.md)
@@ -40,9 +37,11 @@
     * [Quote](content-elements/quote.md)
     * [Responsive Video](content-elements/responsive-video.md)
     * [Social Icons](content-elements/social-icons.md)
-    * Tabs
-    * Button
+    * [Tabs](content-elements/tabs.md)
     * [Hero image \(Slider\)](content-elements/hero-image-\(slider\).md)
+    * [Bootstrap Slider](content-elements/bootstrap-slider.md)
+    * [Contacts](content-elements/contacts.md)
+    * [Copyright](content-elements/copyright.md)
   * [Grid elements](content-elements/grid-elements.md)
     * Two columns grid
     * Three columns grid
