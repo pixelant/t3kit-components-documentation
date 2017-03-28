@@ -1,0 +1,3 @@
+## Preparing:
+
+To add a content element with a file (document, image, video etc.) first need to add this file(s) to Filelist (or a user can select and upload the file(s) directly when creating the element). To add the file to Filelist: go to the Filelist module and click on it. Choose a folder in Page tree (by default files uploads to the fileadmin/ (auto-created) or create a new one. Click on “Upload files” icon and choose the file which you want to upload. The file has uploaded.
